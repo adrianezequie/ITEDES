@@ -1,0 +1,11 @@
+/home/alumno/src/test/bin/Debug/netcoreapp2.1/test.deps.json
+/home/alumno/src/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.json
+/home/alumno/src/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.dev.json
+/home/alumno/src/test/bin/Debug/netcoreapp2.1/test.dll
+/home/alumno/src/test/bin/Debug/netcoreapp2.1/test.pdb
+/home/alumno/src/test/obj/Debug/netcoreapp2.1/test.csprojAssemblyReference.cache
+/home/alumno/src/test/obj/Debug/netcoreapp2.1/test.csproj.CoreCompileInputs.cache
+/home/alumno/src/test/obj/Debug/netcoreapp2.1/test.AssemblyInfoInputs.cache
+/home/alumno/src/test/obj/Debug/netcoreapp2.1/test.AssemblyInfo.cs
+/home/alumno/src/test/obj/Debug/netcoreapp2.1/test.dll
+/home/alumno/src/test/obj/Debug/netcoreapp2.1/test.pdb
